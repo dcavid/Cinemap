@@ -143,7 +143,7 @@ View our [project presentation](https://docs.google.com/presentation/d/11NoVryxy
 - Jonathan Wang - [GitHub](https://github.com/jonathanywang)
 - Brandon Lau - [GitHub](https://github.com/BrandonLau8)
 - Julius Behner - [Github](https://github.com/Spock1701B)
-- David CHen - [Github](https://github.com/dcavid)
+- David Chen - [Github](https://github.com/dcavid)
 
 
 ## 📄 License
