@@ -3,7 +3,7 @@
 <img width="360" height="220" alt="glasses" src="https://github.com/user-attachments/assets/5aa2a38b-55b9-4fbd-87f7-23571ca77333" />
 
 
-## 📝 Overview
+## Overview
 
 CineMap is an innovative narrative visualization tool that helps storytellers, game designers, and screenwriters map out complex narratives with AI assistance. It transforms traditional narrative planning into an intuitive visual experience, allowing you to:
 
@@ -12,12 +12,7 @@ CineMap is an innovative narrative visualization tool that helps storytellers, g
 - Collaborate with AI to develop characters and plotlines
 - Export your narratives for use in games, films, or other media
 
-## 🎬 Demo
-
-IN PROGRESS
-*Click the image above to watch a demo of CineMap in action*
-
-## 📸 Screenshots
+## Screenshots
 
 <details>
   <summary>Click to see screenshots</summary>
@@ -32,7 +27,7 @@ IN PROGRESS
 
 </details>
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend (React)
 - React 18 with TypeScript
@@ -51,7 +46,7 @@ IN PROGRESS
 - Frontend: Vercel
 - Backend: Railway
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -100,7 +95,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## 📖 How to Use
+## How to Use
 
 1. **Create a New Story**
    - Start with a basic premise or genre
@@ -125,7 +120,7 @@ python manage.py runserver
    - Export as visual diagrams for presentations
    - Generate script outlines for screenwriting
 
-## 🌟 Key Features
+## Key Features
 
 - **Interactive Story Flowcharts**: Visualize your narrative with draggable nodes and connections
 - **Character Arc Tracking**: Plot emotional journeys and character development
@@ -134,22 +129,22 @@ python manage.py runserver
 - **Multi-format Export**: Use your story in games, films, or other media
 - **Collaborative Storytelling**: Work with AI to overcome creative blocks
 
-## 🌐 Presentation
+## Presentation
 
 View our [project presentation](https://docs.google.com/presentation/d/11NoVryxy8zZI6ZQoqonoTYbWbkasRNYTRwEAEJYtMAY/edit?slide=id.g36633791f08_1_0#slide=id.g36633791f08_1_0) to learn more about CineMap's development journey and vision.
 
-## 👥 Contributors
+## Contributors
 
+- David Chen - [Github](https://github.com/dcavid)
 - Jonathan Wang - [GitHub](https://github.com/jonathanywang)
 - Brandon Lau - [GitHub](https://github.com/BrandonLau8)
 - Julius Behner - [Github](https://github.com/Spock1701B)
-- David Chen - [Github](https://github.com/dcavid)
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built during BigRedHacks hackathon
